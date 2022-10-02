@@ -1,12 +1,12 @@
 # FirstWebsite
 This was the first website I have made for my intro to web development class. 
 
-##Improvements 
+## Improvements 
 I think i could have taken more time on this project. I did wait till it was close to being due before I started any serious work on it. In addition to that I believe I could have worked on the accesssibility more. I did most of my developing of the site on a school laptop and when I moved over to working on it on my personal computer the difference in screen size messed a lot of things up. 
 
 
 
-##These are the images I used for the website. Not all of them are in use currently, but they were used in the process of building the site and trying things out. 
+## These are the images I used for the website. Not all of them are in use currently, but they were used in the process of building the site and trying things out. 
 
 ![drawing1](https://user-images.githubusercontent.com/112178449/193434802-c038097f-92de-498f-bae9-0d1484456a5f.jpg)
 ![drawing2](https://user-images.githubusercontent.com/112178449/193434803-7bb3ab50-3c1c-4683-b7ae-e63dd9d3b0b6.jpg)
